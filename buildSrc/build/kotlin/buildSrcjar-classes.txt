@@ -1,0 +1,1 @@
+/Users/germangirod/Documents/projects/kmm_template/buildSrc/build/classes/kotlin/main/Dependencies.class
